@@ -572,5 +572,6 @@ You should be able to see both of your nodes connected through the topic.
 
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber 
+   [lab0](lab0--2023-01-26--748f34961082/mobilehri_ws/src/my_package/my_package/)
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
