@@ -1,5 +1,5 @@
 # Interaction First
-\*\***Qian (Martin) Meng (qm34), Nhan Tran (nt322), Andrew Violette (amv78)**\*\*
+\*\***Nhan Tran (nt322), Qian (Martin) Meng (qm34), Andrew Violette (amv78)**\*\*
 
 
 
